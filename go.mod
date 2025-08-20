@@ -1,4 +1,4 @@
-module github.com/rdumont/assistdog
+module github.com/cesarjz/assistdog
 
 go 1.23.9
 
